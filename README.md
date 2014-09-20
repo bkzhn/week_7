@@ -1,4 +1,4 @@
-Assignment - 6
+Assignment - 7
 ==
 
 This week was dedicated to models in Ruby on Rails framework. Models are part of MVC pattern that deals with databases.
